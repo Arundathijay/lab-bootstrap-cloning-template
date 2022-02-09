@@ -1,1 +1,19 @@
-/* Your own custom styles should be here */
+body {
+  margin: 0;
+  padding: 0;
+}
+#hire {
+  padding: 2em;
+  margin-top: 10%;
+}
+header {
+  margin: auto;
+  margin-bottom: 20%;
+  align-items: flex-start;
+  justify-content: center;
+}
+.card-body {
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+}
